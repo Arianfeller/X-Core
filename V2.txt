@@ -1,0 +1,1 @@
+vless://8dee5183-86ef-52da-b8bd-cb4f87bdb65d@104.18.203.232:80?encryption=none&security=none&type=ws&host=TMCUSTOMIZE.xn--79-pv2cvta065cac9302fea377a148g.tech.&path=%2F#X-Core%20%3A%20Saman
