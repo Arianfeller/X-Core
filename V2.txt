@@ -1,1 +1,2 @@
 vless://2841a01a-d93e-48c4-8b23-7cf73610ba2a@162.159.135.234:80?encryption=none&security=none&type=ws&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&path=%2F#Saman%20%3A%20M%2FT7
+vless://6b002548-0669-485e-8cd0-e6dab60a28f2@104.21.74.214:8080?security=none&encryption=none&type=ws&host=joinn34.xn--78-pv2cvta065cac9302fea377a148g.xyz.&path=/join--ServerNett--ServerNett?ed%3D1048#Saman : K-S
