@@ -1,2 +1,2 @@
-vless://37218160-d684-4605-9f89-b5c987034969@visa.com:8443?security=tls&encryption=none&type=ws&host=channel-falcunargo-de2.falcunar.uk.eu.org&path=/?ed%3D2048&sni=channel-falcunargo-de2.falcunar.uk.eu.org&fp=random#Saman : Kernel-Based
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?security=none&encryption=none&type=ws&host=ehda.sajaditsme.com&path=/?ed%3D2048#Saman : Kernel - Based
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.28:2053?security=tls&encryption=none&type=ws&host=guq22.oxnetwORKs.LiNK&path=vless-ws?ed%3D2048&sni=guq22.oxnetwORKs.LiNK&fp=chrome&alpn=http/1.1#Saman : Hyper - V
