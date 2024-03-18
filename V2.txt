@@ -1,2 +1,2 @@
 vless://9094fe1e-134f-4dd5-9744-359da7783634@172.67.146.69:443?security=tls&encryption=none&type=ws&host=be3-vless.sshmax.xyz&path=/vless&sni=be3-vless.sshmax.xyz&fp=chrome#Saman : Hyper - V 🇺🇸
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.121.27:443?security=tls&encryption=none&type=ws&host=edge.020770.xyz&path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed%3D2048&sni=edge.020770.xyz&fp=chrome#Saman : Kernel - Based 🇺🇸
+vless://f47f39ad-11a3-4a1c-a35b-7798fbfe6a1d@85.9.97.185:1147?security=none&encryption=none&type=tcp&host=speedtest.net&path=/&headerType=http#Saman : Hypervisor 🇩🇪
