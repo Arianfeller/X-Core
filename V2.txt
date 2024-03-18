@@ -1,2 +1,2 @@
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?security=none&encryption=none&type=ws&host=ehda.sajaditsme.com&path=/?ed%3D2048#Saman : Kernel - Based 🇺🇸
-vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?security=tls&encryption=none&type=ws&host=FIltEr-1tg.pagEs.DeV&path=/?ed%3D2047&sni=filTer-1tg.pAges.DeV&fp=chrome#🇸🇪
+vless://f5b609d5-76ac-4043-a36d-903dcfaa52b1@190.93.247.247:443?security=tls&encryption=none&type=grpc&sni=virapn-free.virapnom.ir&fp=chrome&serviceName=@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN&alpn=h2,http/1.1#Saman : Hyper - V 🇩🇪
