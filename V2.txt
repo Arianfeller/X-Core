@@ -1,2 +1,2 @@
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?security=none&encryption=none&type=ws&host=ehda.sajaditsme.com&path=/?ed%3D2048#Saman : Kernel - Based 🇺🇸
-vless://f5b609d5-76ac-4043-a36d-903dcfaa52b1@190.93.247.247:443?security=tls&encryption=none&type=grpc&sni=virapn-free.virapnom.ir&fp=chrome&serviceName=@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN&alpn=h2,http/1.1#Saman : Hyper - V 🇩🇪
+vless://9094fe1e-134f-4dd5-9744-359da7783634@172.67.146.69:443?security=tls&encryption=none&type=ws&host=be3-vless.sshmax.xyz&path=/vless&sni=be3-vless.sshmax.xyz&fp=chrome#Saman : Hyper - V 🇺🇸
