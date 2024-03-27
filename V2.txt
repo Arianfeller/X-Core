@@ -1,4 +1,4 @@
-vless://9bb74f9c-6385-4e90-9d16-aadf009575f8@172.66.47.145:2087?security=tls&encryption=none&type=ws&host=akfjw807r23raskodfjsf.pages.dev&path=Telegram@SINABIGO@SINABIGO@SINABIGO/?ed%3D2048&sni=akfjw807r23raskodfjsf.pages.dev&fp=random#Saman : Hyper - V 🇸🇪
+vless://9bb74f9c-6385-4e90-9d16-aadf009575f8@104.16.60.8:2053?security=tls&encryption=none&type=ws&host=akfjw807r23raskodfjsf.pages.dev&path=Path/Telegram%20:%20@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng/?ed%3D2048&sni=akfjw807r23raskodfjsf.pages.dev&fp=random#Saman : Micro - Kernel 🇧🇷
 vless://9bb74f9c-6385-4e90-9d16-aadf009575f8@104.16.60.8:2053?security=tls&encryption=none&type=ws&host=akfjw807r23raskodfjsf.pages.dev&path=Path/Telegram%20:%20@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng/?ed%3D2048&sni=akfjw807r23raskodfjsf.pages.dev&fp=random#Saman : Micro - Kernel 🇸🇪
 
 
