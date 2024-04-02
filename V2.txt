@@ -1,2 +1,2 @@
 vless://1868e21c-f7eb-4d05-a59c-7be3224351be@18.156.49.145:23075?security=none&encryption=none&type=tcp&headerType=none#Emergency 
-vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@162.159.128.135:8443?security=tls&encryption=none&type=ws&host=vpn.restia.love&path=/?ed&sni=vpn.restia.love&fp=chrome#Saman : K.V.M 🇺🇸
+vless://6ad08747-42b9-4618-8f11-ac47de0da0f8@172.67.204.84:8443?security=tls&encryption=none&type=ws&host=proxiiraniii.fiseye5589.workers.dev&path=/&sni=proxiiraniii.fiseye5589.workers.dev&fp=chrome#Saman : RK 🇫🇮
